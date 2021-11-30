@@ -1,6 +1,6 @@
 {
   "name": "@alrex/alrex-test-package",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lightstep Launcher - a configuration layer OpenTelemetry Node.js",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
